@@ -1,0 +1,46 @@
+{
+  "Employee": [
+    {
+      "id": 1,
+      "employeename": "Sunil Yaswanth",
+      "address": "Podili",
+      "phone": 6302759799,
+      "country": "India"
+    },
+    {
+      "id": 2,
+      "employeename": "Kishan",
+      "address": "California",
+      "phone": "7654321099",
+      "country": "USA"
+    },
+    {
+      "id": 3,
+      "employeename": "Kiran",
+      "address": "Mumbai",
+      "phone": "6302452245",
+      "country": "India"
+    },
+    {
+      "id": 4,
+      "employeename": "Rajesh",
+      "address": "Moscow",
+      "phone": "9874543220",
+      "country": "Russia"
+    },
+    {
+      "id": 5,
+      "employeename": "Vikas",
+      "address": "London",
+      "phone": "8976543210",
+      "country": "England"
+    },
+    {
+      "id": 6,
+      "employeename": "mohan",
+      "address": "chennai",
+      "phone": "6302759877",
+      "country": "India"
+    }
+  ]
+}

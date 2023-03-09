@@ -1,0 +1,23 @@
+footer
+{
+    background-color:greenyellow; 
+    position:absolute;
+    text-align: center; 
+    height:50px;  
+    width:100%;  
+}
+nav {
+    background-color:aqua;    
+    overflow: hidden; 
+} 
+h1 
+{
+    text-align: center; 
+}
+
+.container
+ {
+    max-width: 1200px;
+    margin: 0 auto; 
+    padding: 10px;   
+  }

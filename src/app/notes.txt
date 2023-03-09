@@ -1,0 +1,15 @@
+1.Creating a angular cli 
+2.Creating a new angular project 
+3. Creating a new service in the project 
+4. Import HttpClientModule in appmodule.ts 
+5. Setup a mock json server  like 
+    1. install json server 
+    2. create a json srver 
+    3. start mock server  
+6. Create Create,read,update,delete methods in Service class 
+7.implement Exception handling in services
+8. Call that service methods in the component and implement ngOnInit function. 
+9.create some models and some temporary variables to achieve add, get and update. 
+10.implement formsmodule in appcomponent.ts to get forms  
+11. After go to component.html  and implement  Structural Directives(ngFor) , EventBinding to achieve the data of that table, 
+tables, adding a form, updating a form and see the result in the browser.  
